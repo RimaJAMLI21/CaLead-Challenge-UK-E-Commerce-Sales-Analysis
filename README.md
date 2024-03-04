@@ -44,3 +44,6 @@ information. Analyze this dataset and try to answer the following questions.
 • Based on your findings, what strategy could you recommend to the business to gain more profit?<br/>
 
 PowerBi Link : https://app.powerbi.com/view?r=eyJrIjoiZGFlMTIzMGUtMjIyYy00ZGE5LWE3NzUtNWJmYmUyYjFkNmM2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9
+
+
+![](https://github.com/RimaJAMLI21/CaLead-Challenge-UK-E-Commerce-Sales-Analysis/blob/main/caleadash.PNG)
